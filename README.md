@@ -1,0 +1,1 @@
+# Patika---KB---Veri-Analizi---dev1
