@@ -1,7 +1,6 @@
 # PATİKA & Kız Başına - Veri Analizi Bootcamp 1. Ödev
 
-Bu rapor, 1.000 müşteriden oluşan veri setinin analizini sunmaktadır. Veri setinde hiç eksik değer bulunmamaktadır. 
-Analiz sonuçları; müşteri davranışları, demografik dağılım ve memnuniyet seviyeleri hakkında önemli içgörüler sağlamaktadır.
+Bu rapor, 1.000 müşteriden oluşan veri setinin analizini sunmaktadır.
 
 ## Veri Seti Genel Bilgileri
 
